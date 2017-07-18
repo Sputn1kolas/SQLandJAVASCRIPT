@@ -1,0 +1,22 @@
+{
+  "name": "dblookup",
+  "version": "0.0.1",
+  "description": "Looks up famous people in our lovely db",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.jw"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sputn1kolas/SQLandJAVASCRIPT.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sputn1kolas/SQLandJAVASCRIPT/issues"
+  },
+  "homepage": "https://github.com/Sputn1kolas/SQLandJAVASCRIPT#readme"
+}
