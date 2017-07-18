@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Sputn1kolas/SQLandJAVASCRIPT/issues"
   },
-  "homepage": "https://github.com/Sputn1kolas/SQLandJAVASCRIPT#readme"
+  "homepage": "https://github.com/Sputn1kolas/SQLandJAVASCRIPT#readme",
+  "dependencies": {
+    "pg": "^7.0.0"
+  }
 }
